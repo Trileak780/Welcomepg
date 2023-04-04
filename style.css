@@ -1,0 +1,76 @@
+body
+{
+    margin: 0;
+    padding-top: 550px;
+    text-align: center;
+}
+
+.profile
+{
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+}
+
+#welcome
+{
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(#60c1eb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+h1
+{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#name
+{
+    font-size: 50px;
+    font-family: Consolas, monospace;
+}
+
+h2
+{
+    font-size: 30px;
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace, Consolas;
+}
+
+#bio
+{
+    font-family: Consolas, 'Courier New', monospace;
+    padding: 50px;
+}
+.line
+{
+    height: 6px;
+    background-color: #000000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.parallax-inner
+{
+    display: table-cell;
+     vertical-align: middle;
+}
+.button
+{
+    font-family: Consolas, 'Courier New', monospace;
+    background-color: rgb(255, 255, 255);
+}
+#YO
+{
+    color: rgb(71, 197, 149);
+}
+
+#NO
+{
+    color: rgb(197, 41, 49);
+}
